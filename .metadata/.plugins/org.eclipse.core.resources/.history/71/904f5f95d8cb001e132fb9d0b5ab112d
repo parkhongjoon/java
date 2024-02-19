@@ -1,0 +1,9 @@
+package sec05;
+
+public class Car {
+	//ÇÊµå
+	String model;
+	int speed;
+	boolean start;
+	
+}

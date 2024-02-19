@@ -1,0 +1,21 @@
+package sec10;
+
+public class Ex01 {
+
+	public static void main(String[] args) {
+
+		 int[] array =  
+				 	{95, 86};
+
+				  	
+
+	
+			int sum = 0;
+			for(int score : array) {
+				//sum += score;
+				sum = sum + score;
+			}
+			System.out.println("Á¡¼ö ÃÑÇÕ : " + sum);
+	}
+
+}
